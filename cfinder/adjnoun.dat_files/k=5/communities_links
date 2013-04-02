@@ -1,0 +1,26 @@
+# The links inside the communities at k=5
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/adjnoun.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+2 17
+2 51
+2 50
+2 21
+2 34
+2 54
+17 51
+17 50
+17 21
+17 34
+17 54
+51 50
+51 21
+51 34
+51 54
+50 21
+50 54
+34 54

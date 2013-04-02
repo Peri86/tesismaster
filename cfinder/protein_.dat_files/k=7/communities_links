@@ -1,0 +1,29 @@
+# The links inside the communities at k=7
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/protein_.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+252 246
+252 253
+252 254
+252 255
+252 256
+252 257
+246 253
+246 254
+246 255
+246 256
+246 257
+253 254
+253 255
+253 256
+253 257
+254 255
+254 256
+254 257
+255 256
+255 257
+256 257

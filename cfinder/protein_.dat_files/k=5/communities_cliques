@@ -1,0 +1,11 @@
+# The contained cliques in the communities at k=5
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/protein_.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 104 143 161 162 163 172 
+1: 119 151 
+2: 168 
+3: 170 174 175 186 176 185 

@@ -1,0 +1,9 @@
+# The contained cliques in the communities at k=6
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench8.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 75 213 158 161 172 205 237 240 246 129 157 159 169 195 120 125 130 117 118 126 192 119 193 163 194 165 166 168 167 170 197 238 171 239 206 131 160 209 196 198 241 212 162 85 79 80 78 
+1: 96 233 188 227 228 229 220 231 224 111 

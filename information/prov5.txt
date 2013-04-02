@@ -1,0 +1,28 @@
+Nom de la xarxa :methodscamp 
+
+IGRAPH D-W- 18 70 --
++ attr: y (v), x (v), id (v), weight (e)
++ vertex attributes:
++ edges:
+ 0 ->  3  4  8 11 13    6 ->  2  3  4  7 12   12 ->  6 14 17
+ 1 -> 10 15 16          7 ->  3  5  6         13 ->  0  8  9 11
+ 2 ->  3  4  6          8 ->  0  9 11 13 14   14 ->  8 12 15 17
+ 3 ->  0  2  5  6  7    9 ->  8 11 13         15 ->  1 10 14 16 17
+ 4 ->  0  2  5  6      10 ->  1 15 16         16 ->  1 10 15 17
+ 5 ->  3  4  7         11 ->  0  8  9 13      17 -> 12 14 15 16
+
+Algorisme : infomap
+Comunitats : Clustering with 18 elements and 3 clusters
+[0] 1, 10, 12, 14, 15, 16, 17
+[1] 2, 3, 4, 5, 6, 7
+[2] 0, 8, 9, 11, 13
+Temps d'execusio : 3.28087806702
+Modularitat : 0.549795918367
+
+Algorisme : edgebettweenness
+Comunitats : Clustering with 18 elements and 3 clusters
+[0] 0, 8, 9, 11, 13
+[1] 1, 10, 12, 14, 15, 16, 17
+[2] 2, 3, 4, 5, 6, 7
+Temps d'execusio : 2.45404243469
+Modularitat : 0.549795918367

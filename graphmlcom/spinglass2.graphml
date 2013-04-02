@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_comunitat" for="node" attr.name="comunitat" attr.type="double"/>
+  <key id="e_id" for="edge" attr.name="id" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_id">N1</data>
+      <data key="v_comunitat">2</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">N2</data>
+      <data key="v_comunitat">2</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">N3</data>
+      <data key="v_comunitat">3</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">N4</data>
+      <data key="v_comunitat">1</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">N5</data>
+      <data key="v_comunitat">1</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">N6</data>
+      <data key="v_comunitat">2</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">N7</data>
+      <data key="v_comunitat">2</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">N8</data>
+      <data key="v_comunitat">3</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">N9</data>
+      <data key="v_comunitat">0</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">N10</data>
+      <data key="v_comunitat">0</data>
+    </node>
+    <node id="n10">
+      <data key="v_id">N11</data>
+      <data key="v_comunitat">4</data>
+    </node>
+    <node id="n11">
+      <data key="v_id">N12</data>
+      <data key="v_comunitat">4</data>
+    </node>
+    <node id="n12">
+      <data key="v_id">N13</data>
+      <data key="v_comunitat">3</data>
+    </node>
+    <node id="n13">
+      <data key="v_id">N14</data>
+      <data key="v_comunitat">0</data>
+    </node>
+    <node id="n14">
+      <data key="v_id">N15</data>
+      <data key="v_comunitat">0</data>
+    </node>
+    <node id="n15">
+      <data key="v_id">N16</data>
+      <data key="v_comunitat">4</data>
+    </node>
+    <node id="n16">
+      <data key="v_id">N17</data>
+      <data key="v_comunitat">4</data>
+    </node>
+    <node id="n17">
+      <data key="v_id">N18</data>
+      <data key="v_comunitat">3</data>
+    </node>
+    <node id="n18">
+      <data key="v_id">N19</data>
+      <data key="v_comunitat">0</data>
+    </node>
+    <node id="n19">
+      <data key="v_id">N20</data>
+      <data key="v_comunitat">0</data>
+    </node>
+    <node id="n20">
+      <data key="v_id">N21</data>
+      <data key="v_comunitat">2</data>
+    </node>
+    <node id="n21">
+      <data key="v_id">N22</data>
+      <data key="v_comunitat">2</data>
+    </node>
+    <node id="n22">
+      <data key="v_id">N23</data>
+      <data key="v_comunitat">3</data>
+    </node>
+    <node id="n23">
+      <data key="v_id">N24</data>
+      <data key="v_comunitat">1</data>
+    </node>
+    <node id="n24">
+      <data key="v_id">N25</data>
+      <data key="v_comunitat">1</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_id">E1</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_id">E2</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_id">E3</data>
+    </edge>
+    <edge source="n0" target="n20">
+      <data key="e_id">E4</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_id">E5</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_id">E6</data>
+    </edge>
+    <edge source="n1" target="n21">
+      <data key="e_id">E7</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_id">E8</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_id">E9</data>
+    </edge>
+    <edge source="n2" target="n22">
+      <data key="e_id">E10</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_id">E11</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_id">E12</data>
+    </edge>
+    <edge source="n3" target="n23">
+      <data key="e_id">E13</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_id">E14</data>
+    </edge>
+    <edge source="n4" target="n24">
+      <data key="e_id">E15</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_id">E16</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_id">E17</data>
+    </edge>
+    <edge source="n5" target="n10">
+      <data key="e_id">E18</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_id">E19</data>
+    </edge>
+    <edge source="n6" target="n11">
+      <data key="e_id">E20</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_id">E21</data>
+    </edge>
+    <edge source="n7" target="n12">
+      <data key="e_id">E22</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_id">E23</data>
+    </edge>
+    <edge source="n8" target="n13">
+      <data key="e_id">E24</data>
+    </edge>
+    <edge source="n9" target="n14">
+      <data key="e_id">E25</data>
+    </edge>
+    <edge source="n10" target="n11">
+      <data key="e_id">E26</data>
+    </edge>
+    <edge source="n10" target="n14">
+      <data key="e_id">E27</data>
+    </edge>
+    <edge source="n10" target="n15">
+      <data key="e_id">E28</data>
+    </edge>
+    <edge source="n11" target="n12">
+      <data key="e_id">E29</data>
+    </edge>
+    <edge source="n11" target="n16">
+      <data key="e_id">E30</data>
+    </edge>
+    <edge source="n12" target="n13">
+      <data key="e_id">E31</data>
+    </edge>
+    <edge source="n12" target="n17">
+      <data key="e_id">E32</data>
+    </edge>
+    <edge source="n13" target="n14">
+      <data key="e_id">E33</data>
+    </edge>
+    <edge source="n13" target="n18">
+      <data key="e_id">E34</data>
+    </edge>
+    <edge source="n14" target="n19">
+      <data key="e_id">E35</data>
+    </edge>
+    <edge source="n15" target="n16">
+      <data key="e_id">E36</data>
+    </edge>
+    <edge source="n15" target="n19">
+      <data key="e_id">E37</data>
+    </edge>
+    <edge source="n15" target="n20">
+      <data key="e_id">E38</data>
+    </edge>
+    <edge source="n16" target="n17">
+      <data key="e_id">E39</data>
+    </edge>
+    <edge source="n16" target="n21">
+      <data key="e_id">E40</data>
+    </edge>
+    <edge source="n17" target="n18">
+      <data key="e_id">E41</data>
+    </edge>
+    <edge source="n17" target="n22">
+      <data key="e_id">E42</data>
+    </edge>
+    <edge source="n18" target="n19">
+      <data key="e_id">E43</data>
+    </edge>
+    <edge source="n18" target="n23">
+      <data key="e_id">E44</data>
+    </edge>
+    <edge source="n19" target="n24">
+      <data key="e_id">E45</data>
+    </edge>
+    <edge source="n20" target="n21">
+      <data key="e_id">E46</data>
+    </edge>
+    <edge source="n20" target="n24">
+      <data key="e_id">E47</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_id">E48</data>
+    </edge>
+    <edge source="n22" target="n23">
+      <data key="e_id">E49</data>
+    </edge>
+    <edge source="n23" target="n24">
+      <data key="e_id">E50</data>
+    </edge>
+  </graph>
+</graphml>

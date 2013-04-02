@@ -1,0 +1,15 @@
+# The links inside the communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/Pres.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+1345 348
+1345 545
+348 545
+1:
+1708 1712
+1708 1753
+1712 1753

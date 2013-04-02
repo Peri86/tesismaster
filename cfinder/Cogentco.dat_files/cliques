@@ -1,0 +1,9 @@
+# The cliques from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/Cogentco.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 147 177 49 
+1: 177 165 49 
+2: 86 80 87 

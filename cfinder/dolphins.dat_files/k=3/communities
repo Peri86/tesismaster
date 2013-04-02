@@ -1,0 +1,11 @@
+# The communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/dolphins.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 1 17 26 27 25 
+1: 1 17 19 41 54 13 32 57 30 5 9 6 7 
+2: 0 14 15 40 36 29 51 33 16 24 34 37 38 43 50 52 18 45 59 20 21 44 23 3 8 
+3: 0 10 42 47 28 20 30 2 8 

@@ -1,0 +1,15 @@
+# The contained cliques in the communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/Tinet.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 0 3 4 5 16 
+1: 1 
+2: 2 15 
+3: 6 7 20 19 14 13 
+4: 8 9 
+5: 10 11 
+6: 12 
+7: 17 18 

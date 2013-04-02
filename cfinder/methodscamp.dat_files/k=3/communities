@@ -1,0 +1,10 @@
+# The communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/methodscamp.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 1 10 15 16 12 14 17 
+1: 0 11 13 8 9 
+2: 3 4 6 2 5 7 

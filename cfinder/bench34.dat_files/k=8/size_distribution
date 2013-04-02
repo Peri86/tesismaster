@@ -1,0 +1,32 @@
+# The size distr. of the  communities at k=8
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench34.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+8 1
+9 3
+10 6
+11 2
+12 3
+13 2
+14 3
+17 3
+18 1
+19 3
+20 1
+21 1
+22 1
+23 1
+24 1
+28 3
+29 1
+33 3
+36 1
+40 1
+43 1
+44 1
+46 1
+49 1
+

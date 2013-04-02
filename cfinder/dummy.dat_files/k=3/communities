@@ -1,0 +1,11 @@
+# The communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/dummy.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 31 32 65 
+1: 11 10 8 75 9 
+2: 82 43 9 81 
+3: 0 1 2 

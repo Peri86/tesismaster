@@ -1,0 +1,10 @@
+# The contained cliques in the communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/prova.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 0 18 24 1 2 12 19 20 21 3 4 5 6 7 14 23 25 8 22 15 
+1: 9 17 11 13 10 
+2: 16 

@@ -1,0 +1,13 @@
+# The node membership distr. in the  communities at k=5
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/polbooks.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 48
+1 48
+2 7
+3 1
+5 1
+

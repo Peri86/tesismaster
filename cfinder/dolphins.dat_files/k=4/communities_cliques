@@ -1,0 +1,11 @@
+# The contained cliques in the communities at k=4
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/dolphins.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 13 21 39 20 40 
+1: 14 
+2: 22 28 42 45 29 30 43 
+3: 33 34 35 

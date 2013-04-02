@@ -1,0 +1,20 @@
+# The contained cliques in the communities at k=4
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/football.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 5 
+1: 14 
+2: 18 60 68 151 169 58 59 61 62 64 65 66 69 72 149 152 156 63 67 70 150 154 167 71 73 155 157 177 168 176 179 170 178 
+3: 19 
+4: 25 
+5: 26 27 
+6: 31 103 104 120 105 
+7: 34 35 36 38 106 37 39 41 107 110 171 175 116 40 109 115 
+8: 42 43 44 45 49 46 50 48 54 114 134 113 51 52 132 133 53 
+9: 77 79 83 82 
+10: 86 87 88 89 98 100 161 90 91 172 94 93 97 101 112 96 99 
+11: 123 124 125 126 128 137 159 127 129 138 131 146 166 130 144 143 141 165 142 139 140 160 
+12: 148 

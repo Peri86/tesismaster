@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_comunitat" for="node" attr.name="comunitat" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">0</data>
+      <data key="v_label">Beak</data>
+    </node>
+    <node id="n1">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">1</data>
+      <data key="v_label">Beescratch</data>
+    </node>
+    <node id="n2">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">2</data>
+      <data key="v_label">Bumper</data>
+    </node>
+    <node id="n3">
+      <data key="v_comunitat">1</data>
+      <data key="v_id">3</data>
+      <data key="v_label">CCL</data>
+    </node>
+    <node id="n4">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">4</data>
+      <data key="v_label">Cross</data>
+    </node>
+    <node id="n5">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">5</data>
+      <data key="v_label">DN16</data>
+    </node>
+    <node id="n6">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">6</data>
+      <data key="v_label">DN21</data>
+    </node>
+    <node id="n7">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">7</data>
+      <data key="v_label">DN63</data>
+    </node>
+    <node id="n8">
+      <data key="v_comunitat">1</data>
+      <data key="v_id">8</data>
+      <data key="v_label">Double</data>
+    </node>
+    <node id="n9">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">9</data>
+      <data key="v_label">Feather</data>
+    </node>
+    <node id="n10">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">10</data>
+      <data key="v_label">Fish</data>
+    </node>
+    <node id="n11">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">11</data>
+      <data key="v_label">Five</data>
+    </node>
+    <node id="n12">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">12</data>
+      <data key="v_label">Fork</data>
+    </node>
+    <node id="n13">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">13</data>
+      <data key="v_label">Gallatin</data>
+    </node>
+    <node id="n14">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">14</data>
+      <data key="v_label">Grin</data>
+    </node>
+    <node id="n15">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">15</data>
+      <data key="v_label">Haecksel</data>
+    </node>
+    <node id="n16">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">16</data>
+      <data key="v_label">Hook</data>
+    </node>
+    <node id="n17">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">17</data>
+      <data key="v_label">Jet</data>
+    </node>
+    <node id="n18">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">18</data>
+      <data key="v_label">Jonah</data>
+    </node>
+    <node id="n19">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">19</data>
+      <data key="v_label">Knit</data>
+    </node>
+    <node id="n20">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">20</data>
+      <data key="v_label">Kringel</data>
+    </node>
+    <node id="n21">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">21</data>
+      <data key="v_label">MN105</data>
+    </node>
+    <node id="n22">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">22</data>
+      <data key="v_label">MN23</data>
+    </node>
+    <node id="n23">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">23</data>
+      <data key="v_label">MN60</data>
+    </node>
+    <node id="n24">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">24</data>
+      <data key="v_label">MN83</data>
+    </node>
+    <node id="n25">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">25</data>
+      <data key="v_label">Mus</data>
+    </node>
+    <node id="n26">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">26</data>
+      <data key="v_label">Notch</data>
+    </node>
+    <node id="n27">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">27</data>
+      <data key="v_label">Number1</data>
+    </node>
+    <node id="n28">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">28</data>
+      <data key="v_label">Oscar</data>
+    </node>
+    <node id="n29">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">29</data>
+      <data key="v_label">Patchback</data>
+    </node>
+    <node id="n30">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">30</data>
+      <data key="v_label">PL</data>
+    </node>
+    <node id="n31">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">31</data>
+      <data key="v_label">Quasi</data>
+    </node>
+    <node id="n32">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">32</data>
+      <data key="v_label">Ripplefluke</data>
+    </node>
+    <node id="n33">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">33</data>
+      <data key="v_label">Scabs</data>
+    </node>
+    <node id="n34">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">34</data>
+      <data key="v_label">Shmuddel</data>
+    </node>
+    <node id="n35">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">35</data>
+      <data key="v_label">SMN5</data>
+    </node>
+    <node id="n36">
+      <data key="v_comunitat">1</data>
+      <data key="v_id">36</data>
+      <data key="v_label">SN100</data>
+    </node>
+    <node id="n37">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">37</data>
+      <data key="v_label">SN4</data>
+    </node>
+    <node id="n38">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">38</data>
+      <data key="v_label">SN63</data>
+    </node>
+    <node id="n39">
+      <data key="v_comunitat">1</data>
+      <data key="v_id">39</data>
+      <data key="v_label">SN89</data>
+    </node>
+    <node id="n40">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">40</data>
+      <data key="v_label">SN9</data>
+    </node>
+    <node id="n41">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">41</data>
+      <data key="v_label">SN90</data>
+    </node>
+    <node id="n42">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">42</data>
+      <data key="v_label">SN96</data>
+    </node>
+    <node id="n43">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">43</data>
+      <data key="v_label">Stripes</data>
+    </node>
+    <node id="n44">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">44</data>
+      <data key="v_label">Thumper</data>
+    </node>
+    <node id="n45">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">45</data>
+      <data key="v_label">Topless</data>
+    </node>
+    <node id="n46">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">46</data>
+      <data key="v_label">TR120</data>
+    </node>
+    <node id="n47">
+      <data key="v_comunitat">3</data>
+      <data key="v_id">47</data>
+      <data key="v_label">TR77</data>
+    </node>
+    <node id="n48">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">48</data>
+      <data key="v_label">TR82</data>
+    </node>
+    <node id="n49">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">49</data>
+      <data key="v_label">TR88</data>
+    </node>
+    <node id="n50">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">50</data>
+      <data key="v_label">TR99</data>
+    </node>
+    <node id="n51">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">51</data>
+      <data key="v_label">Trigger</data>
+    </node>
+    <node id="n52">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">52</data>
+      <data key="v_label">TSN103</data>
+    </node>
+    <node id="n53">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">53</data>
+      <data key="v_label">TSN83</data>
+    </node>
+    <node id="n54">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">54</data>
+      <data key="v_label">Upbang</data>
+    </node>
+    <node id="n55">
+      <data key="v_comunitat">4</data>
+      <data key="v_id">55</data>
+      <data key="v_label">Vau</data>
+    </node>
+    <node id="n56">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">56</data>
+      <data key="v_label">Wave</data>
+    </node>
+    <node id="n57">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">57</data>
+      <data key="v_label">Web</data>
+    </node>
+    <node id="n58">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">58</data>
+      <data key="v_label">Whitetip</data>
+    </node>
+    <node id="n59">
+      <data key="v_comunitat">1</data>
+      <data key="v_id">59</data>
+      <data key="v_label">Zap</data>
+    </node>
+    <node id="n60">
+      <data key="v_comunitat">2</data>
+      <data key="v_id">60</data>
+      <data key="v_label">Zig</data>
+    </node>
+    <node id="n61">
+      <data key="v_comunitat">0</data>
+      <data key="v_id">61</data>
+      <data key="v_label">Zipfel</data>
+    </node>
+    <edge source="n3" target="n8">
+    </edge>
+    <edge source="n5" target="n9">
+    </edge>
+    <edge source="n6" target="n9">
+    </edge>
+    <edge source="n0" target="n10">
+    </edge>
+    <edge source="n2" target="n10">
+    </edge>
+    <edge source="n5" target="n13">
+    </edge>
+    <edge source="n6" target="n13">
+    </edge>
+    <edge source="n9" target="n13">
+    </edge>
+    <edge source="n0" target="n14">
+    </edge>
+    <edge source="n3" target="n14">
+    </edge>
+    <edge source="n0" target="n15">
+    </edge>
+    <edge source="n14" target="n16">
+    </edge>
+    <edge source="n1" target="n17">
+    </edge>
+    <edge source="n6" target="n17">
+    </edge>
+    <edge source="n9" target="n17">
+    </edge>
+    <edge source="n13" target="n17">
+    </edge>
+    <edge source="n15" target="n18">
+    </edge>
+    <edge source="n1" target="n19">
+    </edge>
+    <edge source="n7" target="n19">
+    </edge>
+    <edge source="n8" target="n20">
+    </edge>
+    <edge source="n16" target="n20">
+    </edge>
+    <edge source="n18" target="n20">
+    </edge>
+    <edge source="n18" target="n21">
+    </edge>
+    <edge source="n17" target="n22">
+    </edge>
+    <edge source="n14" target="n24">
+    </edge>
+    <edge source="n15" target="n24">
+    </edge>
+    <edge source="n18" target="n24">
+    </edge>
+    <edge source="n17" target="n25">
+    </edge>
+    <edge source="n1" target="n26">
+    </edge>
+    <edge source="n25" target="n26">
+    </edge>
+    <edge source="n1" target="n27">
+    </edge>
+    <edge source="n7" target="n27">
+    </edge>
+    <edge source="n17" target="n27">
+    </edge>
+    <edge source="n25" target="n27">
+    </edge>
+    <edge source="n26" target="n27">
+    </edge>
+    <edge source="n1" target="n28">
+    </edge>
+    <edge source="n8" target="n28">
+    </edge>
+    <edge source="n20" target="n28">
+    </edge>
+    <edge source="n10" target="n29">
+    </edge>
+    <edge source="n18" target="n29">
+    </edge>
+    <edge source="n21" target="n29">
+    </edge>
+    <edge source="n24" target="n29">
+    </edge>
+    <edge source="n7" target="n30">
+    </edge>
+    <edge source="n19" target="n30">
+    </edge>
+    <edge source="n28" target="n30">
+    </edge>
+    <edge source="n17" target="n31">
+    </edge>
+    <edge source="n9" target="n32">
+    </edge>
+    <edge source="n13" target="n32">
+    </edge>
+    <edge source="n12" target="n33">
+    </edge>
+    <edge source="n14" target="n33">
+    </edge>
+    <edge source="n16" target="n33">
+    </edge>
+    <edge source="n21" target="n33">
+    </edge>
+    <edge source="n14" target="n34">
+    </edge>
+    <edge source="n33" target="n34">
+    </edge>
+    <edge source="n29" target="n35">
+    </edge>
+    <edge source="n1" target="n36">
+    </edge>
+    <edge source="n20" target="n36">
+    </edge>
+    <edge source="n23" target="n36">
+    </edge>
+    <edge source="n8" target="n37">
+    </edge>
+    <edge source="n14" target="n37">
+    </edge>
+    <edge source="n16" target="n37">
+    </edge>
+    <edge source="n21" target="n37">
+    </edge>
+    <edge source="n33" target="n37">
+    </edge>
+    <edge source="n34" target="n37">
+    </edge>
+    <edge source="n36" target="n37">
+    </edge>
+    <edge source="n14" target="n38">
+    </edge>
+    <edge source="n16" target="n38">
+    </edge>
+    <edge source="n20" target="n38">
+    </edge>
+    <edge source="n33" target="n38">
+    </edge>
+    <edge source="n36" target="n39">
+    </edge>
+    <edge source="n0" target="n40">
+    </edge>
+    <edge source="n7" target="n40">
+    </edge>
+    <edge source="n14" target="n40">
+    </edge>
+    <edge source="n15" target="n40">
+    </edge>
+    <edge source="n33" target="n40">
+    </edge>
+    <edge source="n36" target="n40">
+    </edge>
+    <edge source="n37" target="n40">
+    </edge>
+    <edge source="n1" target="n41">
+    </edge>
+    <edge source="n9" target="n41">
+    </edge>
+    <edge source="n13" target="n41">
+    </edge>
+    <edge source="n0" target="n42">
+    </edge>
+    <edge source="n2" target="n42">
+    </edge>
+    <edge source="n10" target="n42">
+    </edge>
+    <edge source="n30" target="n42">
+    </edge>
+    <edge source="n14" target="n43">
+    </edge>
+    <edge source="n29" target="n43">
+    </edge>
+    <edge source="n33" target="n43">
+    </edge>
+    <edge source="n37" target="n43">
+    </edge>
+    <edge source="n38" target="n43">
+    </edge>
+    <edge source="n2" target="n44">
+    </edge>
+    <edge source="n20" target="n44">
+    </edge>
+    <edge source="n34" target="n44">
+    </edge>
+    <edge source="n38" target="n44">
+    </edge>
+    <edge source="n8" target="n45">
+    </edge>
+    <edge source="n15" target="n45">
+    </edge>
+    <edge source="n18" target="n45">
+    </edge>
+    <edge source="n21" target="n45">
+    </edge>
+    <edge source="n23" target="n45">
+    </edge>
+    <edge source="n24" target="n45">
+    </edge>
+    <edge source="n29" target="n45">
+    </edge>
+    <edge source="n37" target="n45">
+    </edge>
+    <edge source="n43" target="n46">
+    </edge>
+    <edge source="n0" target="n47">
+    </edge>
+    <edge source="n10" target="n47">
+    </edge>
+    <edge source="n20" target="n47">
+    </edge>
+    <edge source="n28" target="n47">
+    </edge>
+    <edge source="n30" target="n47">
+    </edge>
+    <edge source="n42" target="n47">
+    </edge>
+    <edge source="n34" target="n49">
+    </edge>
+    <edge source="n46" target="n49">
+    </edge>
+    <edge source="n14" target="n50">
+    </edge>
+    <edge source="n16" target="n50">
+    </edge>
+    <edge source="n20" target="n50">
+    </edge>
+    <edge source="n33" target="n50">
+    </edge>
+    <edge source="n42" target="n50">
+    </edge>
+    <edge source="n45" target="n50">
+    </edge>
+    <edge source="n4" target="n51">
+    </edge>
+    <edge source="n11" target="n51">
+    </edge>
+    <edge source="n18" target="n51">
+    </edge>
+    <edge source="n21" target="n51">
+    </edge>
+    <edge source="n23" target="n51">
+    </edge>
+    <edge source="n24" target="n51">
+    </edge>
+    <edge source="n29" target="n51">
+    </edge>
+    <edge source="n45" target="n51">
+    </edge>
+    <edge source="n50" target="n51">
+    </edge>
+    <edge source="n14" target="n52">
+    </edge>
+    <edge source="n29" target="n52">
+    </edge>
+    <edge source="n38" target="n52">
+    </edge>
+    <edge source="n40" target="n52">
+    </edge>
+    <edge source="n43" target="n53">
+    </edge>
+    <edge source="n1" target="n54">
+    </edge>
+    <edge source="n6" target="n54">
+    </edge>
+    <edge source="n7" target="n54">
+    </edge>
+    <edge source="n13" target="n54">
+    </edge>
+    <edge source="n19" target="n54">
+    </edge>
+    <edge source="n41" target="n54">
+    </edge>
+    <edge source="n15" target="n55">
+    </edge>
+    <edge source="n51" target="n55">
+    </edge>
+    <edge source="n5" target="n56">
+    </edge>
+    <edge source="n6" target="n56">
+    </edge>
+    <edge source="n5" target="n57">
+    </edge>
+    <edge source="n6" target="n57">
+    </edge>
+    <edge source="n9" target="n57">
+    </edge>
+    <edge source="n13" target="n57">
+    </edge>
+    <edge source="n17" target="n57">
+    </edge>
+    <edge source="n39" target="n57">
+    </edge>
+    <edge source="n41" target="n57">
+    </edge>
+    <edge source="n48" target="n57">
+    </edge>
+    <edge source="n54" target="n57">
+    </edge>
+    <edge source="n38" target="n58">
+    </edge>
+    <edge source="n3" target="n59">
+    </edge>
+    <edge source="n8" target="n59">
+    </edge>
+    <edge source="n15" target="n59">
+    </edge>
+    <edge source="n36" target="n59">
+    </edge>
+    <edge source="n45" target="n59">
+    </edge>
+    <edge source="n32" target="n60">
+    </edge>
+    <edge source="n2" target="n61">
+    </edge>
+    <edge source="n37" target="n61">
+    </edge>
+    <edge source="n53" target="n61">
+    </edge>
+  </graph>
+</graphml>

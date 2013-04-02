@@ -1,0 +1,41 @@
+# The graph of at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench21.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 1 4
+0 2 2
+0 3 4
+0 4 3
+0 5 3
+0 6 2
+0 7 2
+0 8 2
+0 9 3
+0 10 2
+0 11 3
+0 12 2
+0 13 2
+0 14 3
+0 15 3
+0 16 2
+0 17 3
+0 18 3
+0 19 3
+0 20 3
+0 21 2
+0 22 3
+0 23 3
+0 24 3
+0 25 3
+0 26 3
+4 7 1
+9 18 1
+9 22 1
+15 17 1
+15 26 1
+17 26 1
+18 22 1
+19 21 1

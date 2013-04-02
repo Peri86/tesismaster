@@ -1,0 +1,43 @@
+# The links inside the communities at k=8
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench8.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+43 16
+43 17
+43 22
+43 38
+43 44
+43 48
+43 28
+43 47
+16 17
+16 22
+16 38
+16 44
+16 48
+16 28
+16 47
+17 22
+17 38
+17 44
+17 48
+17 28
+17 47
+22 38
+22 44
+22 48
+22 28
+22 47
+38 48
+38 28
+38 47
+44 48
+44 28
+44 47
+48 28
+48 47
+28 47

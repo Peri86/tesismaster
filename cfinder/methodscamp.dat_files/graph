@@ -1,0 +1,77 @@
+# The links from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/methodscamp.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+# (mutual links and self-links were removed)
+
+0 11
+0 13
+0 3
+0 4
+0 8
+1 10
+1 15
+1 16
+10 1
+10 15
+10 16
+11 0
+11 13
+11 8
+11 9
+12 14
+12 17
+12 6
+13 0
+13 11
+13 8
+13 9
+14 12
+14 15
+14 17
+14 8
+15 1
+15 10
+15 14
+15 16
+15 17
+16 1
+16 10
+16 15
+16 17
+17 12
+17 14
+17 15
+17 16
+2 3
+2 4
+2 6
+3 0
+3 2
+3 5
+3 6
+3 7
+4 0
+4 2
+4 5
+4 6
+5 3
+5 4
+5 7
+6 12
+6 2
+6 3
+6 4
+6 7
+7 3
+7 5
+7 6
+8 0
+8 11
+8 13
+8 14
+8 9
+9 11
+9 13
+9 8

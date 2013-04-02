@@ -1,0 +1,10 @@
+# The communities at k=14
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench24.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 110 111 112 113 114 115 116 117 118 119 120 121 122 209 78 212 211 151 
+1: 196 418 193 205 204 256 200 202 201 254 199 197 198 206 207 255 203 252 191 231 253 497 
+2: 111 112 114 116 117 118 119 120 121 122 146 78 145 147 149 

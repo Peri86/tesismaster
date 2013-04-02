@@ -1,0 +1,21 @@
+# The communities at k=4
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/protein_.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 467 12 311 346 407 478 13 322 14 15 17 
+1: 181 403 402 410 
+2: 181 403 464 471 
+3: 276 315 21 95 
+4: 356 211 297 82 
+5: 395 234 269 425 
+6: 354 358 51 52 
+7: 128 181 348 403 375 460 315 331 393 426 483 7 
+8: 290 327 328 329 330 320 351 
+9: 394 379 135 113 444 366 
+10: 406 50 455 91 
+11: 0 360 369 481 
+12: 395 439 235 390 
+13: 252 246 253 254 255 256 257 

@@ -1,0 +1,15 @@
+# The communities at k=5
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/polbooks.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 99 59 60 62 63 
+1: 3 10 11 12 21 13 14 17 20 26 27 47 24 8 9 
+2: 12 33 23 32 8 
+3: 12 13 40 44 8 
+4: 100 77 66 72 30 31 73 74 75 76 79 82 83 84 86 93 99 78 91 88 89 96 97 71 
+5: 58 51 64 65 69 
+6: 12 27 47 40 41 54 
+7: 10 12 33 38 39 

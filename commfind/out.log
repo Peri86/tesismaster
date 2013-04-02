@@ -1,0 +1,23 @@
+file to read: example.net
+number of eigenpairs to be computed: 10
+number of converged eigenvalues: 10
+0.000000
+0.233207
+0.292230
+0.427882
+0.510623
+0.553941
+0.580316
+0.647497
+0.672484
+0.773415
+D= 2	Qmax = 0.352664
+D= 3	Qmax = 0.407606
+D= 4	Qmax = 0.336624
+D= 5	Qmax = 0.297213
+D= 6	Qmax = 0.275512
+D= 7	Qmax = 0.284366
+D= 8	Qmax = 0.25577
+D= 9	Qmax = 0.234432
+using 3 eigenvalues: Qmax found = 0.407606
+4 communities found

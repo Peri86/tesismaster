@@ -1,0 +1,65 @@
+# The links inside the communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/Tinet.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+14 15
+14 34
+15 34
+15 32
+15 33
+34 32
+34 33
+34 37
+34 39
+33 39
+37 39
+1:
+52 43
+52 51
+43 51
+2:
+1 44
+1 49
+1 52
+44 49
+49 52
+3:
+6 4
+6 7
+34 17
+34 18
+34 5
+34 8
+17 18
+18 8
+4 5
+4 7
+4 8
+5 7
+5 8
+4:
+46 24
+46 31
+46 47
+24 31
+31 47
+5:
+28 27
+28 30
+28 5
+27 30
+27 5
+6:
+37 38
+37 4
+38 4
+7:
+42 41
+42 37
+42 35
+41 35
+37 35

@@ -1,0 +1,81 @@
+# The links inside the communities at k=9
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/football.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0:
+1 33
+1 103
+1 105
+1 109
+1 25
+1 37
+1 45
+1 89
+33 103
+33 105
+33 109
+33 25
+33 37
+33 45
+33 89
+103 105
+103 109
+103 25
+103 37
+103 45
+103 89
+105 109
+105 25
+105 37
+105 45
+105 89
+109 25
+109 37
+109 45
+109 89
+25 37
+25 45
+25 89
+37 45
+37 89
+45 89
+1:
+114 110
+114 67
+114 46
+114 53
+114 49
+114 73
+114 83
+114 88
+110 67
+110 46
+110 53
+110 49
+110 73
+110 83
+110 88
+67 46
+67 53
+67 49
+67 73
+67 83
+67 88
+46 53
+46 49
+46 73
+46 83
+46 88
+53 49
+53 73
+53 83
+53 88
+49 73
+49 83
+49 88
+73 83
+73 88
+83 88

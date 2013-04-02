@@ -1,0 +1,11 @@
+# The communities at k=11
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench4.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 482 479 485 486 493 495 499 489 402 478 378 484 334 408 442 253 457 427 225 379 349 352 304 273 278 324 312 356 403 333 367 
+1: 387 414 472 481 490 497 498 488 496 452 327 267 
+2: 436 480 483 487 491 425 433 469 473 391 441 438 405 421 351 385 357 413 259 372 368 311 348 
+3: 387 472 481 490 497 498 488 496 328 339 452 

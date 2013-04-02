@@ -1,0 +1,62 @@
+# The graph of at k=5
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench35.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+2 4 5
+2 23 4
+2 24 4
+4 23 1
+5 6 3
+5 32 1
+6 32 3
+8 10 4
+10 30 5
+10 36 5
+11 15 5
+11 25 4
+11 31 2
+11 35 4
+11 37 5
+11 42 5
+11 44 5
+11 45 5
+15 25 3
+15 35 2
+15 42 3
+15 44 2
+15 45 2
+16 26 4
+16 34 6
+18 28 5
+18 29 4
+18 33 5
+18 38 3
+18 39 4
+18 40 4
+18 41 3
+18 43 5
+19 27 5
+25 35 1
+25 37 1
+25 42 3
+25 44 1
+25 45 3
+28 33 2
+28 39 1
+28 40 2
+29 38 1
+29 39 1
+31 35 1
+31 37 2
+33 40 3
+35 37 1
+35 44 2
+35 45 1
+37 42 1
+38 39 1
+38 41 2
+42 45 2
+44 45 3

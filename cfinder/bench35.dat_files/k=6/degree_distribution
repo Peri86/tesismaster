@@ -1,0 +1,17 @@
+# The com. degree distr. of the  communities at k=6
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench35.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 11
+1 1
+2 5
+3 14
+4 5
+5 7
+6 8
+7 2
+8 2
+

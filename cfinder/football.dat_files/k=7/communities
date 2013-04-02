@@ -1,0 +1,12 @@
+# The communities at k=7
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/football.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 1 33 103 105 109 25 37 45 89 
+1: 0 104 16 23 4 41 9 93 
+2: 35 101 19 29 30 55 79 94 
+3: 18 34 54 71 99 31 61 
+4: 114 110 67 46 53 49 73 83 88 

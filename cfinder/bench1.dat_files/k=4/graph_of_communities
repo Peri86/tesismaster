@@ -1,0 +1,17 @@
+# The graph of at k=4
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/bench1.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0 1 1
+0 3 1
+0 7 1
+0 13 1
+1 6 1
+2 6 1
+5 7 1
+5 12 1
+6 12 1
+6 13 1

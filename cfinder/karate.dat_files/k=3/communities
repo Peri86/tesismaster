@@ -1,0 +1,10 @@
+# The communities at k=3
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/karate.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 0 1 12 13 17 19 2 21 3 31 7 8 30 33 14 32 15 18 27 28 20 22 23 29 26 
+1: 0 10 4 5 6 16 
+2: 31 25 24 

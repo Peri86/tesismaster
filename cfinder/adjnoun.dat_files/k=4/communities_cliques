@@ -1,0 +1,11 @@
+# The contained cliques in the communities at k=4
+# from /Users/paupericay/Dropbox/MIIACS/Projecte/Programes/Comparador/cfinder/adjnoun.dat
+# at no lower link weight threshold,
+# and at no upper link weight threshold.
+# Links were treated as undirected.
+# No time limit was set for the clique search.
+
+0: 48 176 69 152 174 67 79 148 154 164 175 177 180 78 117 118 158 178 63 159 64 65 66 184 185 155 181 156 165 182 183 110 109 122 119 70 150 113 115 116 114 132 131 
+1: 91 100 99 
+2: 128 
+3: 145 
